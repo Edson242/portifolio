@@ -20,7 +20,7 @@ export const projects: Project[] = [
     image: "",
     technologies: ["WebSocket", "Tempo Real", "Arquitetura Orientada a Eventos"],
     github: "https://github.com/Edson242/sky-trace-client",
-    demo: "https://sky-trace.vercel.app",
+    demo: "https://sky-trace-client.vercel.app",
     featured: true,
   },
   {
